@@ -57,7 +57,7 @@ Some projects I’ve worked on:
 
 - 💿 **EasyDMG2ISO**<br>
      A small and useful macOS utility to convert DMG files to ISO or CDR format.<br>
-     🔗 https://github.com/Flavius12/TinyCore-FE-Installer
+     🔗 https://github.com/EvolSoft/EasyDMG2ISO
 
 - 🛠️ **TinyCore Forensic Edition Installer (Master's thesis project)**<br>
      Created a custom installer, updated the Linux kernel, and added other forensic tools into TinyCore Forensic Edition Linux distribution.<br>
